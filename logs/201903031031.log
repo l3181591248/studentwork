@@ -1,0 +1,16 @@
+2019-03-03 10:31:52,263 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-03-03 10:31:52,264 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-03-03 10:31:54,531 - BrowserEngin - INFO - 启动谷歌游览器
+2019-03-03 10:31:55,132 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-03-03 10:31:56,251 - BrowserEngin - INFO - 窗口最大化
+2019-03-03 10:31:56,254 - BrowserEngin - INFO - 等待10秒
+2019-03-03 10:31:56,538 - Basic - INFO - 输入内容l3181591248
+2019-03-03 10:31:56,613 - Basic - INFO - 输入内容030201
+2019-03-03 10:31:56,680 - Basic - INFO - Clear text input box before typing
+2019-03-03 10:31:57,982 - Basic - INFO - Clear text input box before typing
+2019-03-03 10:31:59,087 - Basic - INFO - 输入内容haotest
+2019-03-03 10:31:59,179 - Basic - INFO - 输入内容嘤嘤嘤666666
+2019-03-03 10:32:00,353 - Basic - INFO - Clear text input box before typing
+2019-03-03 10:32:00,475 - Basic - INFO - 输入内容楼主6666666666
+2019-03-03 10:32:15,977 - Basic - INFO - Clear text input box before typing
+2019-03-03 10:32:16,981 - Basic - ERROR - <pageobjects.luntan_user_page.Homepage object at 0x000001FEFB3B0EF0>页面中未能找到(('xpath', "//strong[@class='vwmy']/a"),)元素——>

@@ -1,0 +1,18 @@
+2019-03-02 17:49:42,732 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-03-02 17:49:42,733 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-03-02 17:49:45,046 - BrowserEngin - INFO - 启动谷歌游览器
+2019-03-02 17:49:46,105 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-03-02 17:49:47,223 - BrowserEngin - INFO - 窗口最大化
+2019-03-02 17:49:47,225 - BrowserEngin - INFO - 等待10秒
+2019-03-02 17:49:47,508 - Basic - INFO - 输入内容l3181591248
+2019-03-02 17:49:47,588 - Basic - INFO - 输入内容030201
+2019-03-02 17:49:47,663 - Basic - INFO - Clear text input box before typing
+2019-03-02 17:49:49,036 - Basic - INFO - Clear text input box before typing
+2019-03-02 17:49:50,160 - Basic - INFO - 输入内容haotest
+2019-03-02 17:49:50,280 - Basic - INFO - 输入内容嘤嘤嘤666666
+2019-03-02 17:49:51,364 - Basic - INFO - Clear text input box before typing
+2019-03-02 17:49:51,489 - Basic - INFO - 输入内容楼主6666666666
+2019-03-02 17:50:06,806 - Basic - INFO - Clear text input box before typing
+2019-03-02 17:50:07,808 - Basic - ERROR - <pageobjects.luntan_user_page.Homepage object at 0x000001638A5F8EF0>页面中未能找到(<function BasicsTestCase.send_url at 0x000001638A601D08>,)元素——>
+2019-03-02 17:50:07,808 - Basic - ERROR - 未获取 'NoneType' object has no attribute 'text'
+2019-03-02 17:50:08,103 - Basic - INFO - Clear text input box before typing

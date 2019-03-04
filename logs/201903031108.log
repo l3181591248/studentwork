@@ -1,0 +1,16 @@
+2019-03-03 11:08:53,637 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-03-03 11:08:53,637 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-03-03 11:08:56,086 - BrowserEngin - INFO - 启动谷歌游览器
+2019-03-03 11:08:57,159 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-03-03 11:08:58,277 - BrowserEngin - INFO - 窗口最大化
+2019-03-03 11:08:58,278 - BrowserEngin - INFO - 等待10秒
+2019-03-03 11:08:58,626 - Basic - INFO - 输入内容l3181591248
+2019-03-03 11:08:58,727 - Basic - INFO - 输入内容030201
+2019-03-03 11:08:58,801 - Basic - INFO - Clear text input box before typing
+2019-03-03 11:08:59,802 - Basic - ERROR - <pageobjects.luntan_user_page.Homepage object at 0x000001FC2725BF60>页面中未能找到(<bound method Homepage.find_id of <pageobjects.luntan_user_page.Homepage object at 0x000001FC2725BF60>>,)元素——>
+2019-03-03 11:08:59,803 - Basic - ERROR - 未获取 'NoneType' object has no attribute 'text'
+2019-03-03 11:09:00,184 - Basic - INFO - Clear text input box before typing
+2019-03-03 11:09:01,298 - Basic - INFO - 输入内容haotest
+2019-03-03 11:09:01,410 - Basic - INFO - 输入内容嘤嘤嘤666666
+2019-03-03 11:09:02,370 - Basic - INFO - Clear text input box before typing
+2019-03-03 11:09:02,530 - Basic - INFO - 输入内容楼主6666666666

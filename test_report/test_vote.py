@@ -4,9 +4,11 @@
 # 取出投票的主题名称
 
 import time
+import unittest
+
 from pageobjects.Basics_test import BasicsTestCase
 from pageobjects.luntan_toupiao_page import Homepage
-import unittest
+
 
 class OstSerch(BasicsTestCase):
     def test_contorller(self):
@@ -25,5 +27,5 @@ class OstSerch(BasicsTestCase):
         con_page.display()
 
 if __name__=="__main__":
-    runner = unittest.TextTestRunner(ValueError=2)
+    runner = unittest.TextTestRunner(verbosity=2)
     unittest.main()

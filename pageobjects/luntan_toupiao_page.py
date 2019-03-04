@@ -1,6 +1,9 @@
-from selenium.webdriver.common.by import By
-from  framwork.Basics import Basic
 import time
+
+from selenium.webdriver.common.by import By
+
+from framwork.Basics import Basic
+
 
 class Homepage(Basic):
     home_page_input_username = (By.ID, "ls_username")  # 用户名
@@ -26,10 +29,7 @@ class Homepage(Basic):
     home_page_button_fen3_loc = (By.XPATH, "//form[@id='poll']/div[2]/table/tbody/tr[6]/td[2]")
     home_page_button_toupiao=(By.XPATH,"//form[@id='poll']/div[2]/table/tbody/tr[7]/td[2]/button")
     home_page_button_xuanze1=(By.XPATH,"//form[@id='poll']/div[2]/table/tbody/tr[5]/td[1]")
-
-
-
-
+    home_page_get_subject = (By.CSS_SELECTOR, ".ts span")  # 搜索结果的标题
     def vote(self):
         time.sleep(1)
         self.click(*self.home_page_button_Default_block)  # 点击默认版块
@@ -59,6 +59,12 @@ class Homepage(Basic):
         self.click(*self.home_page_button_quit)#退出登录
     def vote_title(self,content):
         self.sendkeys(content, *self.home_page_input_search3_loc)
+
+    def submit(self):  # 断言
+        self.driver.switch_to.window(self.driver.window_handles[2])
+        self.click(*self.home_page_get_subject)
+        m = self.driver.find_element_by_css_selector(".ts span")
+        return m.text
     def display(self):
         self.text(*self.home_page_label_search1_loc)
         self.text(*self.home_page_label_search2_loc)

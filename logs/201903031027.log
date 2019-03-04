@@ -1,0 +1,13 @@
+2019-03-03 10:27:02,060 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-03-03 10:27:02,060 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-03-03 10:27:04,331 - BrowserEngin - INFO - 启动谷歌游览器
+2019-03-03 10:27:05,689 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-03-03 10:27:06,821 - BrowserEngin - INFO - 窗口最大化
+2019-03-03 10:27:06,823 - BrowserEngin - INFO - 等待10秒
+2019-03-03 10:27:07,104 - Basic - INFO - 输入内容l3181591248
+2019-03-03 10:27:07,184 - Basic - INFO - 输入内容030201
+2019-03-03 10:27:07,255 - Basic - INFO - Clear text input box before typing
+2019-03-03 10:27:08,261 - Basic - ERROR - <pageobjects.luntan_user_page.Homepage object at 0x0000017944086F28>页面中未能找到(('class name', 'vwmy'),)元素——>
+2019-03-03 10:27:08,606 - Basic - INFO - Clear text input box before typing
+2019-03-03 10:27:09,711 - Basic - INFO - 输入内容haotest
+2019-03-03 10:27:09,806 - Basic - INFO - 输入内容嘤嘤嘤666666

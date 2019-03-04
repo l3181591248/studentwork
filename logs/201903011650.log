@@ -1,0 +1,71 @@
+2019-03-01 16:50:46,485 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-03-01 16:50:46,485 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-03-01 16:50:51,857 - BrowserEngin - INFO - 启动谷歌游览器
+2019-03-01 16:50:54,481 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-03-01 16:50:55,735 - BrowserEngin - INFO - 窗口最大化
+2019-03-01 16:50:55,739 - BrowserEngin - INFO - 等待10秒
+2019-03-01 16:50:56,188 - Basic - INFO - 输入内容l3181591248
+2019-03-01 16:50:56,287 - Basic - INFO - 输入内容030201
+2019-03-01 16:50:56,377 - Basic - INFO - Clear text input box before typing
+2019-03-01 16:50:58,516 - Basic - INFO - Clear text input box before typing
+2019-03-01 16:50:59,650 - Basic - INFO - 输入内容english
+2019-03-01 16:50:59,766 - Basic - INFO - 输入内容嘤嘤嘤666666
+2019-03-01 16:51:03,086 - Basic - INFO - Clear text input box before typing
+2019-03-01 16:51:03,215 - Basic - INFO - 输入内容楼主6666666666
+2019-03-01 16:51:19,010 - Basic - INFO - Clear text input box before typing
+2019-03-01 16:51:20,461 - Basic - INFO - Clear text input box before typing
+2019-03-01 16:51:22,641 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-03-01 16:51:22,641 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-03-01 16:51:25,394 - BrowserEngin - INFO - 启动谷歌游览器
+2019-03-01 16:51:26,793 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-03-01 16:51:27,911 - BrowserEngin - INFO - 窗口最大化
+2019-03-01 16:51:27,912 - BrowserEngin - INFO - 等待10秒
+2019-03-01 16:51:28,190 - Basic - INFO - 输入内容admin
+2019-03-01 16:51:28,267 - Basic - INFO - 输入内容030201
+2019-03-01 16:51:28,336 - Basic - INFO - Clear text input box before typing
+2019-03-01 16:51:30,905 - Basic - INFO - Clear text input box before typing
+2019-03-01 16:51:31,992 - Basic - INFO - Clear text input box before typing
+2019-03-01 16:51:33,519 - Basic - INFO - Clear text input box before typing
+2019-03-01 16:51:35,089 - Basic - INFO - Clear text input box before typing
+2019-03-01 16:51:36,231 - Basic - INFO - Clear text input box before typing
+2019-03-01 16:51:48,803 - Basic - ERROR - <pageobjects.luntan_Administrators_page.Homepage object at 0x000001C926FE33C8>页面中未能找到('link text', '论坛')元素——>
+2019-03-01 16:51:48,825 - Basic - ERROR - Failed to type in input box with 'NoneType' object has no attribute 'click'
+2019-03-01 16:51:52,140 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-03-01 16:51:52,140 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-03-01 16:51:54,418 - BrowserEngin - INFO - 启动谷歌游览器
+2019-03-01 16:51:55,734 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-03-01 16:51:56,858 - BrowserEngin - INFO - 窗口最大化
+2019-03-01 16:51:56,860 - BrowserEngin - INFO - 等待10秒
+2019-03-01 16:51:57,146 - Basic - INFO - 输入内容l3181591248
+2019-03-01 16:51:57,223 - Basic - INFO - 输入内容030201
+2019-03-01 16:51:57,308 - Basic - INFO - Clear text input box before typing
+2019-03-01 16:51:58,428 - Basic - INFO - 输入内容haotest
+2019-03-01 16:51:58,538 - Basic - INFO - Clear text input box before typing
+2019-03-01 16:52:11,113 - Basic - ERROR - <pageobjects.luntan_tiezi_page.Homepage object at 0x000001C926F93DA0>页面中未能找到('xpath', '//li[@class="pbw"]//a ')元素——>
+2019-03-01 16:52:11,113 - Basic - ERROR - Failed to type in input box with 'NoneType' object has no attribute 'click'
+2019-03-01 16:52:14,389 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-03-01 16:52:14,389 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-03-01 16:52:16,641 - BrowserEngin - INFO - 启动谷歌游览器
+2019-03-01 16:52:18,370 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-03-01 16:52:19,495 - BrowserEngin - INFO - 窗口最大化
+2019-03-01 16:52:19,496 - BrowserEngin - INFO - 等待10秒
+2019-03-01 16:52:19,804 - Basic - INFO - 输入内容l3181591248
+2019-03-01 16:52:19,889 - Basic - INFO - 输入内容030201
+2019-03-01 16:52:19,961 - Basic - INFO - Clear text input box before typing
+2019-03-01 16:52:21,359 - Basic - INFO - Clear text input box before typing
+2019-03-01 16:52:23,182 - Basic - INFO - Clear text input box before typing
+2019-03-01 16:52:24,689 - Basic - INFO - Clear text input box before typing
+2019-03-01 16:52:24,790 - Basic - INFO - 输入内容管理最帅
+2019-03-01 16:52:25,879 - Basic - INFO - 输入内容嘤1
+2019-03-01 16:52:25,963 - Basic - INFO - 输入内容嘤2
+2019-03-01 16:52:26,036 - Basic - INFO - 输入内容嘤3
+2019-03-01 16:52:26,122 - Basic - INFO - 输入内容嘤内容
+2019-03-01 16:52:26,253 - Basic - INFO - Clear text input box before typing
+2019-03-01 16:52:27,620 - Basic - INFO - Clear text input box before typing
+2019-03-01 16:52:28,336 - Basic - INFO - Clear text input box before typing
+2019-03-01 16:52:28,392 - Basic - INFO - 已获取
+2019-03-01 16:52:28,439 - Basic - INFO - 已获取
+2019-03-01 16:52:28,484 - Basic - INFO - 已获取
+2019-03-01 16:52:28,529 - Basic - INFO - 已获取
+2019-03-01 16:52:28,574 - Basic - INFO - 已获取
+2019-03-01 16:52:28,628 - Basic - INFO - 已获取

@@ -1,0 +1,26 @@
+2019-03-03 16:19:34,043 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-03-03 16:19:34,043 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-03-03 16:19:36,524 - BrowserEngin - INFO - 启动谷歌游览器
+2019-03-03 16:19:37,918 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-03-03 16:19:39,035 - BrowserEngin - INFO - 窗口最大化
+2019-03-03 16:19:39,036 - BrowserEngin - INFO - 等待10秒
+2019-03-03 16:19:39,333 - Basic - INFO - 输入内容admin
+2019-03-03 16:19:39,431 - Basic - INFO - 输入内容030201
+2019-03-03 16:19:39,499 - Basic - INFO - Clear text input box before typing
+2019-03-03 16:19:40,978 - Basic - INFO - Clear text input box before typing
+2019-03-03 16:19:42,085 - Basic - INFO - Clear text input box before typing
+2019-03-03 16:19:43,423 - Basic - INFO - Clear text input box before typing
+2019-03-03 16:19:44,868 - Basic - INFO - Clear text input box before typing
+2019-03-03 16:19:45,996 - Basic - INFO - Clear text input box before typing
+2019-03-03 16:19:48,154 - Basic - INFO - 输入内容030201
+2019-03-03 16:20:10,068 - Basic - INFO - Clear text input box before typing
+2019-03-03 16:20:11,325 - Basic - INFO - Clear text input box before typing
+2019-03-03 16:20:11,470 - Basic - INFO - Clear text input box before typing
+2019-03-03 16:20:11,721 - Basic - INFO - Clear text input box before typing
+2019-03-03 16:20:12,266 - Basic - INFO - Clear text input box before typing
+2019-03-03 16:20:12,506 - Basic - INFO - Clear text input box before typing
+2019-03-03 16:20:14,786 - Basic - INFO - 输入内容l3181591248
+2019-03-03 16:20:14,879 - Basic - INFO - 输入内容030201
+2019-03-03 16:20:14,952 - Basic - INFO - Clear text input box before typing
+2019-03-03 16:20:26,513 - Basic - ERROR - <pageobjects.luntan_Administrators_page.Homepage object at 0x0000018A468E97F0>页面中未能找到('css selector', '.fastlg_l button')元素——>
+2019-03-03 16:20:26,513 - Basic - ERROR - Failed to type in input box with 'NoneType' object has no attribute 'click'

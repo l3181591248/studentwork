@@ -1,7 +1,7 @@
 from selenium.webdriver.common.by import By
-from  framwork.Basics import Basic
-import time
-import unittest
+
+from framwork.Basics import Basic
+
 
 class Homepage(Basic):
     home_page_input_username = (By.ID, "ls_username")  # 用户名
@@ -32,3 +32,7 @@ class Homepage(Basic):
         self.click(*self.home_page_get_subject)
         m = self.driver.find_element_by_css_selector( ".ts span")
         return m.text
+
+    def find_id(self):
+        a = self.driver.find_element_by_css_selector(".vwmy a")
+        return a.text

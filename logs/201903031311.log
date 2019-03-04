@@ -1,0 +1,18 @@
+2019-03-03 13:11:38,433 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-03-03 13:11:38,433 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-03-03 13:11:40,619 - BrowserEngin - INFO - 启动谷歌游览器
+2019-03-03 13:11:41,983 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-03-03 13:11:43,105 - BrowserEngin - INFO - 窗口最大化
+2019-03-03 13:11:43,106 - BrowserEngin - INFO - 等待10秒
+2019-03-03 13:11:43,424 - Basic - INFO - 输入内容admin
+2019-03-03 13:11:43,519 - Basic - INFO - 输入内容030201
+2019-03-03 13:11:43,590 - Basic - INFO - Clear text input box before typing
+2019-03-03 13:11:44,975 - Basic - INFO - Clear text input box before typing
+2019-03-03 13:11:46,083 - Basic - INFO - Clear text input box before typing
+2019-03-03 13:11:47,474 - Basic - INFO - Clear text input box before typing
+2019-03-03 13:11:48,950 - Basic - INFO - Clear text input box before typing
+2019-03-03 13:11:50,081 - Basic - INFO - Clear text input box before typing
+2019-03-03 13:11:54,333 - Basic - INFO - Clear text input box before typing
+2019-03-03 13:11:54,470 - Basic - INFO - Clear text input box before typing
+2019-03-03 13:11:54,709 - Basic - INFO - Clear text input box before typing
+2019-03-03 13:11:55,122 - Basic - INFO - Clear text input box before typing

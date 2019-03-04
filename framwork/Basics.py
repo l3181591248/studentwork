@@ -1,9 +1,7 @@
-from selenium.webdriver.support.wait import WebDriverWait
-from framwork.logger import Logger
 from selenium.webdriver.support import expected_conditions as EC
-import os
-import time
+from selenium.webdriver.support.wait import WebDriverWait
 
+from framwork.logger import Logger
 
 logger=Logger(logger="Basic").getlog()
 class Basic(object):
@@ -41,7 +39,6 @@ class Basic(object):
             logger.info("找到页面元素——>", loc)
         except:
             logger.error("%s页面中未能找到%s元素——>"%(self,loc))
-            return None
             #保存图片
     # def get_windows_img(self):
     #     file_path=os.path.dirname(os.path.abspath("."))+"/screenshots/"
@@ -63,7 +60,7 @@ class Basic(object):
     #输入
     def sendkeys(self,text,*loc):
         el=self.find_element(*loc)
-        # el.clear()
+        el.clear()
         try:
             el.send_keys(text)
             logger.info("输入内容"+text)

@@ -1,0 +1,32 @@
+2019-03-03 12:22:02,336 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-03-03 12:22:02,336 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-03-03 12:22:04,554 - BrowserEngin - INFO - 启动谷歌游览器
+2019-03-03 12:22:05,562 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-03-03 12:22:06,681 - BrowserEngin - INFO - 窗口最大化
+2019-03-03 12:22:06,682 - BrowserEngin - INFO - 等待10秒
+2019-03-03 12:22:06,993 - Basic - INFO - 输入内容admin
+2019-03-03 12:22:07,085 - Basic - INFO - 输入内容030201
+2019-03-03 12:22:07,160 - Basic - INFO - Clear text input box before typing
+2019-03-03 12:22:08,561 - Basic - INFO - Clear text input box before typing
+2019-03-03 12:22:09,667 - Basic - INFO - Clear text input box before typing
+2019-03-03 12:22:11,090 - Basic - INFO - Clear text input box before typing
+2019-03-03 12:22:12,561 - Basic - INFO - Clear text input box before typing
+2019-03-03 12:22:13,679 - Basic - INFO - Clear text input box before typing
+2019-03-03 12:22:45,812 - BrowserEngin - INFO - 你选择了Chrome游览器
+2019-03-03 12:22:45,813 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-03-03 12:22:48,093 - BrowserEngin - INFO - 启动谷歌游览器
+2019-03-03 12:22:49,205 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-03-03 12:22:50,326 - BrowserEngin - INFO - 窗口最大化
+2019-03-03 12:22:50,328 - BrowserEngin - INFO - 等待10秒
+2019-03-03 12:22:50,607 - Basic - INFO - 输入内容admin
+2019-03-03 12:22:50,704 - Basic - INFO - 输入内容030201
+2019-03-03 12:22:50,778 - Basic - INFO - Clear text input box before typing
+2019-03-03 12:22:52,151 - Basic - INFO - Clear text input box before typing
+2019-03-03 12:22:53,260 - Basic - INFO - Clear text input box before typing
+2019-03-03 12:22:54,653 - Basic - INFO - Clear text input box before typing
+2019-03-03 12:22:56,107 - Basic - INFO - Clear text input box before typing
+2019-03-03 12:22:57,232 - Basic - INFO - Clear text input box before typing
+2019-03-03 12:22:59,369 - Basic - INFO - Clear text input box before typing
+2019-03-03 12:22:59,685 - Basic - INFO - Clear text input box before typing
+2019-03-03 12:22:59,988 - Basic - INFO - Clear text input box before typing
+2019-03-03 12:23:00,352 - Basic - INFO - Clear text input box before typing
